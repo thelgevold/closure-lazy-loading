@@ -1,0 +1,1 @@
+function f(c){var d=document.getElementById("countrylist");c.f.forEach(function(a){var b=document.createElement("li");b.textContent=a.name;d.appendChild(b)})};new function(){this.f=[{name:"USA"},{name:"France"},{name:"Denmark"},{name:"Canada"}];f(this);document.getElementById("countryHeading").innerText="Countries"};

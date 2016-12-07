@@ -5,8 +5,9 @@
   "author": "Torgeir Helgevold",
   "license": "MIT",
   "scripts": {
-    "build": "splittable src/countries/index.js src/friends/index.js",
-    "start": "lite-server"
+    "splittable": "splittable src/countries/index.js src/friends/index.js",
+    "closure-compiler-splitting": "./build.sh",
+    "start": "npm run closure-compiler-splitting && lite-server"
   },
   "devDependencies": {
     "lite-server": "^2.2.2",

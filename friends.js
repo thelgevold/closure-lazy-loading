@@ -1,0 +1,1 @@
+function e(c){var d=document.getElementById("friendslist");c.g.forEach(function(a){var b=document.createElement("li");b.textContent=a.b+" "+a.c+", age: "+a.a;d.appendChild(b)})};new function(){this.g=[{b:"Joe",c:"Smith",a:20},{b:"Jane",c:"Doe",a:30},{b:"John",c:"Doe",a:40},{b:"Peter",c:"Jackson",a:50}];e(this);document.getElementById("friendsHeading").innerText="Friends"};

@@ -1,8 +1,11 @@
+import {HeadingService} from '../heading-service';
+
 export class Friends {
   
   constructor() {
     this.friends = this.getFriends();
     this.renderFriends();
+    new HeadingService().setHeading('friendsHeading', 'Friends');
   }
 
   getFriends() {

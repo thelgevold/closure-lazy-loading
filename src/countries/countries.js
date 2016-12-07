@@ -1,8 +1,11 @@
+import {HeadingService} from '../heading-service';
+
 export class Countries {
   
   constructor() {
     this.countries = this.getCountries();
     this.renderCountries();
+    new HeadingService().setHeading('countryHeading', 'Countries');
   }
 
   getCountries() {
@@ -19,5 +22,4 @@ export class Countries {
       countryList.appendChild(li);
     });
   }
-
 }

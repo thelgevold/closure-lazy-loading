@@ -1,5 +1,5 @@
 (function (global) {
   System.config({
-    baseURL: '/out'
+    baseURL: '.'
   });
 })(this);
