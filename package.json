@@ -1,0 +1,19 @@
+{
+  "name": "closure-splittable",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Torgeir Helgevold",
+  "license": "MIT",
+  "scripts": {
+    "build": "splittable src/countries/index.js src/friends/index.js",
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2",
+    "splittable": "^3.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "systemjs": "^0.19.41"
+  }
+}

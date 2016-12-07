@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"/out/src-countries-index.js",
+"lineCount":1,
+"mappings":"A,uCAWEA,QAAA,EAAe,CAAfA,CAAe,CAAG,CAChB,IAAIC,EAAcC,QAAAC,eAAA,CAAwB,aAAxB,CAElB,EAAAC,UAAAC,QAAA,CAAuB,QAAS,CAACC,CAAD,CAAU,CACxC,IAAIC,EAAKL,QAAAM,cAAA,CAAuB,IAAvB,CAETD,EAAAE,YAAA,CAAiBH,CAAAI,KACjBT,EAAAU,YAAA,CAAwBJ,CAAxB,CAJwC,CAA1C,CAHgB,C,CCTJ,IDAdK,QAAW,EAAG,CACZ,IAAAR,UAAA,CAKO,CAAC,CAACM,KAAM,KAAP,CAAD,CAAgB,CAACA,KAAM,QAAP,CAAhB,CAAkC,CAACA,KAAM,SAAP,CAAlC,CAAqD,CAACA,KAAM,QAAP,CAArD,CAJPV,EAAA,CAAAA,IAAA,CAFY,C,CEDhB,CAACa,IAAA,GAAD,CAAYA,IAAA,GAAZ,EAAwB,EAAxB,EAA4B,0BAA5B,CAAA,CDDCC;",
+"sources":["/src/countries/countries.js","/src/countries/index.js","/splittable-build/tmp-7hkOws.js"],
+"names":["renderCountries","countryList","document","getElementById","countries","forEach","country","li","createElement","textContent","name","appendChild","constructor","self","module$src$countries$index"]
+}

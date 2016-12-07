@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"/out/src-friends-index.js",
+"lineCount":1,
+"mappings":"A,uCAeEA,QAAA,EAAa,CAAbA,CAAa,CAAG,CACd,IAAIC,EAAcC,QAAAC,eAAA,CAAwB,aAAxB,CAElB,EAAAC,QAAAC,QAAA,CAAqB,QAAS,CAACC,CAAD,CAAS,CACrC,IAAIC,EAAKL,QAAAM,cAAA,CAAuB,IAAvB,CAETD,EAAAE,YAAA,CAAiCH,CAMzBI,UANR,CAMwB,GANxB,CAAiCJ,CAMLK,SAN5B,CAM2C,SAN3C,CAAiCL,CAMoBM,IALrDX,EAAAY,YAAA,CAAwBN,CAAxB,CAJqC,CAAvC,CAHc,C,CCbJ,IDAZO,QAAW,EAAG,CACZ,IAAAV,QAAA,CAKO,CAAC,CAACM,UAAW,KAAZ,CAAmBC,SAAU,OAA7B,CAAsCC,IAAK,EAA3C,CAAD,CACC,CAACF,UAAW,MAAZ,CAAoBC,SAAU,KAA9B,CAAqCC,IAAK,EAA1C,CADD,CAEC,CAACF,UAAW,MAAZ,CAAoBC,SAAU,KAA9B,CAAqCC,IAAK,EAA1C,CAFD,CAGC,CAACF,UAAW,OAAZ,CAAqBC,SAAU,SAA/B,CAA0CC,IAAK,EAA/C,CAHD,CAJPZ,EAAA,CAAAA,IAAA,CAFY,C,CEDhB,CAACe,IAAA,GAAD,CAAYA,IAAA,GAAZ,EAAwB,EAAxB,EAA4B,wBAA5B,CAAA,CDDCC;",
+"sources":["/src/friends/friends.js","/src/friends/index.js","/splittable-build/tmp-Q1RJnb.js"],
+"names":["renderFriends","friendsList","document","getElementById","friends","forEach","friend","li","createElement","textContent","firstName","lastName","age","appendChild","constructor","self","module$src$friends$index"]
+}
